@@ -117,7 +117,7 @@ const Home = () => {
               <div className="relative w-full">
                 <div className="relative rounded-2xl overflow-hidden aspect-square w-full max-w-[400px] mx-auto">
                   <img 
-                    src="/src/assets/images/profile.jpg" 
+                    src="/assets//profile.jpg" 
                     alt="Profile" 
                     className="w-full h-full object-cover object-center" 
                   />

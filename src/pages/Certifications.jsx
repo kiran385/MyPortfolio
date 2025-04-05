@@ -7,7 +7,7 @@ const Certifications = () => {
       id: 1,
       name: "Google Data Analytics Professional Certificate",
       issuer: "Coursera",
-      logo: "/src/assets/images/coursera.jpg",
+      logo: "/assets//coursera.jpg",
       date: "March 2024",
       link: "https://www.coursera.org/account/accomplishments/professional-cert/5Z5JJMDWYL4E"
     },
@@ -15,7 +15,7 @@ const Certifications = () => {
       id: 2,
       name: "MongoDB Node.js Developer Path",
       issuer: "MongoDB University",
-      logo: "/src/assets/images/mongodb.png",
+      logo: "/assets//mongodb.png",
       date: "January 2024",
       link: "https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/08e3c127-a4ee-441a-b599-ee72709d4376-22it060-kiranbhai-baraiya-a3a25033-e861-49a2-97ed-c7bc3fd49c8d-certificate.pdf"
     },
@@ -23,7 +23,7 @@ const Certifications = () => {
       id: 3,
       name: "Operating System Fundamentals",
       issuer: "NPTEL",
-      logo: "/src/assets/images/nptel.png",
+      logo: "/assets//nptel.png",
       date: "November 2024",
       link: "https://archive.nptel.ac.in/content/noc/NOC24/SEM2/Ecertificates/106/noc24-cs108/Course/NPTEL24CS108S56300004303842360.pdf"
     },
@@ -31,7 +31,7 @@ const Certifications = () => {
       id: 4,
       name: "Database Management System",
       issuer: "NPTEL",
-      logo: "/src/assets/images/nptel.png",
+      logo: "/assets//nptel.png",
       date: "October 2023",
       link: "https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs79/Course/NPTEL23CS79S3445026110013359.pdf"
     },
@@ -39,7 +39,7 @@ const Certifications = () => {
       id: 5,
       name: "Data Structures and Algorithms using Java",
       issuer: "NPTEL",
-      logo: "/src/assets/images/nptel.png",
+      logo: "/assets//nptel.png",
       date: "November 2023",
       link: "https://archive.nptel.ac.in/content/noc/NOC23/SEM2/Ecertificates/106/noc23-cs85/Course/NPTEL23CS85S4311009520051880.pdf"
     },
@@ -47,7 +47,7 @@ const Certifications = () => {
       id: 6,
       name: "Design and Analysis of Algorithms",
       issuer: "NPTEL",
-      logo: "/src/assets/images/nptel.png",
+      logo: "/assets//nptel.png",
       date: "April 2024",
       link: "https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs23/Course/NPTEL24CS23S54470017230014005.pdf"
     },
@@ -55,7 +55,7 @@ const Certifications = () => {
       id: 7,
       name: "Windows Forensics with Belkasoft",
       issuer: "Belkasoft",
-      logo: "/src/assets/images/belkasoft.png",
+      logo: "/assets//belkasoft.png",
       date: "February 2025",
       link: "https://belkasoft.thinkific.com/certificates/qaib4jsvaz"
     },
@@ -63,7 +63,7 @@ const Certifications = () => {
       id: 8,
       name: "Beyond the Basics: Mastering Advanced Digital Forensics Techniques",
       issuer: "Belkasoft",
-      logo: "/src/assets/images/belkasoft.png",
+      logo: "/assets//belkasoft.png",
       date: "February 2025",
       link: "https://belkasoft.thinkific.com/certificates/jwk3uplgzn"
     },
@@ -71,7 +71,7 @@ const Certifications = () => {
       id: 9,
       name: "Foundational C# with Microsoft",
       issuer: "freeCodeCamp",
-      logo: "/src/assets/images/freecodecamp.png",
+      logo: "/assets//freecodecamp.png",
       date: "July 2024",
       link: "https://freecodecamp.org/certification/KiranBaraiya/foundational-c-sharp-with-microsoft"
     },
@@ -79,7 +79,7 @@ const Certifications = () => {
       id: 10,
       name: "AWS Academy Graduate - AWS Academy Cloud Developing",
       issuer: "Amazon Web Services",
-      logo: "/src/assets/images/aws.png",
+      logo: "/assets//aws.png",
       date: "March 2025",
       link: "https://www.credly.com/badges/63f13da8-c3c6-4541-8803-14b8c8aa9855/linked_in_profile"
     },
@@ -87,7 +87,7 @@ const Certifications = () => {
       id: 11,
       name: "Java (Basic) Certificate",
       issuer: "HackerRank",
-      logo: "/src/assets/images/hackerrank.png",
+      logo: "/assets//hackerrank.png",
       date: "September 2023",
       link: "https://www.hackerrank.com/certificates/2b3737dcd1a4"
     },
@@ -95,7 +95,7 @@ const Certifications = () => {
       id: 12,
       name: "SQL (Basic) Certificate",
       issuer: "HackerRank",
-      logo: "/src/assets/images/hackerrank.png",
+      logo: "/assets//hackerrank.png",
       date: "October 2023",
       link: "https://www.hackerrank.com/certificates/5c70cf9dd1fb"
     },
@@ -103,7 +103,7 @@ const Certifications = () => {
       id: 13,
       name: "CSS (Basic) Certificate",
       issuer: "HackerRank",
-      logo: "/src/assets/images/hackerrank.png",
+      logo: "/assets//hackerrank.png",
       date: "October 2023",
       link: "https://www.hackerrank.com/certificates/bac0f66477d9"
     },
