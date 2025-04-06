@@ -71,7 +71,7 @@ const Certifications = () => {
       id: 9,
       name: "Foundational C# with Microsoft",
       issuer: "freeCodeCamp",
-      logo: "/assets//freecodecamp.png",
+      logo: "/assets//freeCodeCamp.png",
       date: "July 2024",
       link: "https://freecodecamp.org/certification/KiranBaraiya/foundational-c-sharp-with-microsoft"
     },
